@@ -1,4 +1,4 @@
-package com.kyncu.msbeerinventoryservice.service.web.model;
+package com.kyncu.beersystem.service.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

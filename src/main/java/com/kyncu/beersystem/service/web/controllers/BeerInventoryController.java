@@ -1,8 +1,8 @@
-package com.kyncu.msbeerinventoryservice.service.web.controllers;
+package com.kyncu.beersystem.service.web.controllers;
 
-import com.kyncu.msbeerinventoryservice.service.repositories.BeerInventoryRepository;
-import com.kyncu.msbeerinventoryservice.service.web.mappers.BeerInventoryMapper;
-import com.kyncu.msbeerinventoryservice.service.web.model.BeerInventoryDto;
+import com.kyncu.beersystem.service.repositories.BeerInventoryRepository;
+import com.kyncu.beersystem.service.web.mappers.BeerInventoryMapper;
+import com.kyncu.beersystem.service.web.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

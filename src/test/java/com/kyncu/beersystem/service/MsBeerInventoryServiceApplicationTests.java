@@ -1,4 +1,4 @@
-package com.kyncu.msbeerinventoryservice.service;
+package com.kyncu.beersystem.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -15,7 +15,7 @@
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package com.kyncu.msbeerinventoryservice.service.web.mappers;
+package com.kyncu.beersystem.service.web.mappers;
 
 import org.springframework.stereotype.Component;
 
