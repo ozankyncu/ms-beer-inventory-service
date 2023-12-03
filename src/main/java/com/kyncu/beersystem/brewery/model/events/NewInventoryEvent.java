@@ -1,4 +1,4 @@
-package com.kyncu.beersystem.common.events;
+package com.kyncu.beersystem.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 

@@ -1,6 +1,6 @@
 package com.kyncu.beersystem.service.services;
 
-import com.kyncu.beersystem.common.events.NewInventoryEvent;
+import com.kyncu.beersystem.brewery.model.events.NewInventoryEvent;
 import com.kyncu.beersystem.service.config.JmsConfig;
 import com.kyncu.beersystem.service.domain.BeerInventory;
 import com.kyncu.beersystem.service.repositories.BeerInventoryRepository;
