@@ -1,4 +1,4 @@
-package com.kyncu.beersystem.brewery.model.events;
+package com.kyncu.beersystem.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
